@@ -15,5 +15,5 @@ class Controleur
         _vue.AfficherLePaquet();
         _paquet.MelangerPaquet();
         _vue.AfficherLePaquet();
-    }
+    }//jghjghk
 };
